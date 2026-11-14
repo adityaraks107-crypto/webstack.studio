@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webstack-studio.vercel.app/sitemap.xml
